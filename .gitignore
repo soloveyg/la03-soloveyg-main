@@ -1,0 +1,9 @@
+*.o
+level1_pointers/test_capitalize
+level1_pointers/test_range
+level1_pointers/test_set_max
+level2_basic_linked_lists/test_list_basic
+level2_basic_linked_lists/test_list_find
+level3_adv_linked_lists/test_list_create
+level3_adv_linked_lists/test_list_create_destroy
+level3_adv_linked_lists/test_list_delete
