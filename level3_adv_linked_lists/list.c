@@ -17,6 +17,7 @@ void ll_destroy(struct ll_node *head) {
     }
     
     struct ll_node* temp= head;
+    
     struct ll_node* prev;
 
     while (temp->next!= NULL)
